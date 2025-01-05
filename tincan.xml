@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://MGWNo3MEef2ZXXecG6H3HIGdSO0arMG3_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">AH2-Organizational Environment &amp; Culture</name>
+      <description lang="en-US">The functioning and development of each organization take place in an environment (internal and external). Any action of the organization is possible only if the environment allows it to be carried out. The state and activity of the organization at any moment is the result of the action of its internal factors and the effects of the external environment.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://MGWNo3MEef2ZXXecG6H3HIGdSO0arMG3_rise/3QkBvFa9JxDl8sa2tfzTTC7V7dwXR2jY" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">External environment/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://MGWNo3MEef2ZXXecG6H3HIGdSO0arMG3_rise/C0kD8B3WINcya5oMsjHK0iNLHrEH0I_b" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Internal environment/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
